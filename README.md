@@ -1,2 +1,2 @@
-# Lista-3
-Exercícios resolvidos da 3ª lista de AL1
+# AL1-C
+Exercícios resolvidos das listas de AL1
